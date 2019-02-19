@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Agila Theme/Markdown/Dracula Markdown.tmTheme",
+	"enable_table_editor": true,
+	"extensions":
+	[
+		"mdown",
+		"txt",
+		"md"
+	]
+}

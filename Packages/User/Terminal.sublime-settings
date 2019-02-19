@@ -1,0 +1,5 @@
+{
+  // The command to execute for the terminal, leave blank for the OS default
+  // See https://github.com/wbond/sublime_terminal#examples for examples
+  "terminal": "terminator"
+}

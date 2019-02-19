@@ -1,0 +1,46 @@
+{
+    "shell_configs": [
+        {
+            "name": "Zsh",
+            "cmd": ["zsh", "-i", "-l"],
+            "env": {},
+            "enable": true,
+            "default": true,
+            "platforms": ["linux", "osx"]
+        }
+    ],
+    "256color": true,
+    "unix_term": "xterm-256color",
+    "disable_keys" : [
+        "ctrl+k",   // there are a number of shortcuts with "ctrl+k" prefix.
+        "ctrl+p"   // to show Go to Anything
+    ],
+     "theme": "user",
+    // see https://www.sublimetext.com/docs/3/color_schemes.html#colors for the
+    // available colors
+    "user_theme_colors": {
+        // "background": "#262626",
+        // "foreground": "#ffffff",
+        // "caret": "white",
+        // "selection": "#444444",
+        // "selection_foreground": "#ffffff"
+        // "00": "#000000",  // black
+        // "01": "#cd0000",  // red
+        // "02": "#00cd00",  // green
+        // "03": "#cdcd00",  // brown
+        "04": "#1C5778",  // blue
+        // "05": "#cd00cd",  // magenta
+        "06": "#0DBEB6",  // cyan
+        // "07": "#e5e5e5",  // white
+        // "08": "#7f7f7f",  // light_black
+        // "09": "#ff0000",  // light_red
+        // "10": "#00ff00",  // light_green
+        // "11": "#ffff00",  // light_brown
+        // "12": "#5c5cff",  // light_blue
+        // "13": "#ff00ff",  // light_magenta
+        // "14": "#00ffff",  // light_cyan
+        // "15": "#ffffff"   // light_white
+    },
+
+
+}

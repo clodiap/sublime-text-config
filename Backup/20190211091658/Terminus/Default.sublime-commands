@@ -1,0 +1,92 @@
+[
+    // extra command can be added to Command Palette as
+    // read the details of the arguments of `terminus_open` in README
+    // {
+    //     "caption": "Terminus: Open iPython",
+    //     "command": "terminus_open",
+    //     "args"   : {
+    //         "cmd": ["ipython"],
+    //         "cwd": "${file_path:${folder}}",
+    //         "title": "iPython"
+    //     }
+    // },
+    {
+        "caption": "Terminus: Open Default Shell in View",
+        "command": "terminus_open",
+        "args": {"config_name": "Default"}
+    },
+    {
+        "caption": "Terminus: Open Default Shell in Panel",
+        "command": "terminus_open",
+        "args": {"config_name": "Default", "panel_name": "Terminus"}
+    },
+    {
+        "caption": "Terminus: List Shells",
+        "command": "terminus_open"
+    },
+    {
+        "caption": "Terminus: Toggle Panel",
+        "command": "toggle_terminus_panel"
+    },
+    {
+        "caption": "Terminus: Clear History",
+        "command": "terminus_clear_history"
+    },
+    {
+        "caption": "Terminus: Close",
+        "command": "terminus_close"
+    },
+    {
+        "caption": "Terminus: Close All",
+        "command": "terminus_close_all"
+    },
+    {
+        "caption": "Terminus: Maximize to View",
+        "command": "terminus_maximize"
+    },
+    {
+        "caption": "Terminus: Minimize to Panel",
+        "command": "terminus_minimize"
+    },
+    {
+        "caption": "Terminus Utilities: Select Theme",
+        "command": "terminus_select_theme"
+    },
+    {
+        "caption": "Terminus Utilities: Generate User Theme",
+        "command": "terminus_generate_theme",
+        "args": {"force": true}
+    },
+    {
+        "caption": "Terminus Utilities: Remove User Theme",
+        "command": "terminus_generate_theme",
+        "args": {"remove": true}
+    },
+    {
+        "caption": "Preferences: Terminus Settings",
+        "command": "terminus_edit_settings",
+        "args":
+        {
+            "base_file": "${packages}/Terminus/Terminus.sublime-settings",
+            "default": "{\n\t$0\n}\n"
+        }
+    },
+    {
+        "caption": "Preferences: Terminus Command Palette",
+        "command": "terminus_edit_settings",
+        "args":
+        {
+            "base_file": "${packages}/Terminus/Default.sublime-commands",
+            "default": "[\n\t$0\n]\n"
+        }
+    },
+    {
+        "caption": "Preferences: Terminus Key Bindings",
+        "command": "terminus_edit_settings",
+        "args":
+        {
+            "base_file": "${packages}/Terminus/Default (${platform}).sublime-keymap",
+            "default": "[\n\t$0\n]\n"
+        }
+    }
+]

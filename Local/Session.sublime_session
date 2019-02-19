@@ -1,0 +1,2873 @@
+{
+	"folder_history":
+	[
+		"/home/clodiap/Dev/THP/30-lun/THP_30_KitUi",
+		"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project",
+		"/home/clodiap/Dev/THP/16-lun/the_gossip_project",
+		"/home/clodiap/Dev/THP/29-jeu/test_active_storage",
+		"/home/clodiap/Dev/THP/29-jeu/Eventbrite_Paris-nicolas",
+		"/home/clodiap/Dev/THP/29-jeu/eventbrite_maud",
+		"/home/clodiap/Dev/THP/26-lun/Eventbrite - viviane",
+		"/home/clodiap/Dev/THP/26-lun/Eventbrite",
+		"/home/clodiap/Dev/THP/27-mar/corrections",
+		"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project",
+		"/home/clodiap/Dev/THP/26-lun/test_action_mailer",
+		"/home/clodiap/Dev/THP/22-mar/TGP-viviane",
+		"/home/clodiap/Dev/THP/22-mar/test2/THP_22_Gossip_2.0-master",
+		"/home/clodiap/Dev/THP/20-ven/testing_my_blog",
+		"/home/clodiap/Dev/THP/25-ven/simple_rails_messaging_tutorial-master",
+		"/home/clodiap/Dev/THP/19-jeu/GossipProject",
+		"/home/clodiap/Dev/THP/25-ven/corrections",
+		"/home/clodiap/Dev/THP",
+		"/home/clodiap/Travaux Clo/python/P4E/code3",
+		"/home/clodiap/Travaux Clo/python/P4E/p4e",
+		"/home/clodiap/Dev/CodeWars",
+		"/home/clodiap/Dev/html css",
+		"/home/clodiap/Dev/django-freecodecamp/src",
+		"/home/clodiap/Dev/django-freecodecamp",
+		"/home/clodiap/Dev/todolistappdjango",
+		"/home/clodiap/Dev/djangoforwpdevelopers",
+		"/home/clodiap/Travaux Clo/python/Learning Python3 the hard way",
+		"/home/clodiap/Travaux Clo/python/P4E",
+		"/home/clodiap/Dev/djangosimplewebsite/src",
+		"/home/clodiap/Dev/trydjango",
+		"/home/clodiap/mydjangoprojects",
+		"/home/clodiap/mydjangoprojects/mydjangoproject2/mysite",
+		"/home/clodiap/mydjangoprojects/djangoproject1",
+		"/home/sebetclo/Travaux Clo/Apprentissage/javascript",
+		"/home/sebetclo/Travaux Clo/Apprentissage/css variables",
+		"/home/sebetclo/Travaux Clo/Apprentissage/freecodecamp",
+		"/home/sebetclo/quickstart",
+		"/home/sebetclo/Travaux Clo/portfolio/theme wp claudiap",
+		"/home/sebetclo/Travaux Clo/Notes",
+		"/home/sebetclo/Travaux Clo/cssgrid",
+		"/home/sebetclo/Travaux Clo/Tests",
+		"/home/sebetclo/Travaux Clo/python",
+		"/home/sebetclo/Travaux Clo/CV",
+		"/home/sebetclo/Travaux Clo/cssgrid/css-grid-master/10 - Placing Grid Items"
+	],
+	"last_version": 3176,
+	"last_window_id": 96,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 712.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"event",
+						"event_picture"
+					],
+					[
+						"even",
+						"event_picture"
+					],
+					[
+						"par",
+						"params"
+					],
+					[
+						"text",
+						"text-center \tBootstrap 4 Class"
+					],
+					[
+						"admin",
+						"administrator"
+					],
+					[
+						"stati",
+						"static_pages"
+					],
+					[
+						"has_",
+						"has_many"
+					],
+					[
+						"has",
+						"has_many"
+					],
+					[
+						"each",
+						"each_with_index"
+					],
+					[
+						"all",
+						"all_gossips"
+					],
+					[
+						"new",
+						"new_words"
+					],
+					[
+						"array",
+						"array_of_rows"
+					],
+					[
+						"go",
+						"gossip_provisoire"
+					],
+					[
+						"array_ur",
+						"array_urls_to_scrap"
+					],
+					[
+						"email",
+						"email_to_save"
+					],
+					[
+						"word",
+						"word_of_corpus"
+					],
+					[
+						"word_of",
+						"word_of_corpus"
+					],
+					[
+						"words",
+						"words_of_my_dict"
+					],
+					[
+						"first",
+						"first_name"
+					],
+					[
+						"get",
+						"get_townhall_urls"
+					],
+					[
+						"arr",
+						"array_of_hash"
+					],
+					[
+						"arra",
+						"array_currencies"
+					],
+					[
+						"bonjour",
+						"bonjour_monde"
+					],
+					[
+						"foll",
+						"follow_like_stream_hashtag"
+					],
+					[
+						"follow",
+						"follow_tweets_hashtag"
+					],
+					[
+						"gues",
+						"guess_this_number"
+					],
+					[
+						"sub",
+						"substraction"
+					],
+					[
+						"my",
+						"my_string"
+					],
+					[
+						"revers",
+						"reverse_upcase_noLTA"
+					],
+					[
+						"my_",
+						"my_new_string"
+					],
+					[
+						"pos",
+						"pos_number"
+					],
+					[
+						"question",
+						"questions_answers"
+					],
+					[
+						"arrays",
+						"array_of_keys"
+					],
+					[
+						"hash",
+						"hash_values_float"
+					],
+					[
+						"alpha",
+						"alphabétique"
+					],
+					[
+						"how",
+						"how_many_underscores"
+					],
+					[
+						"upper",
+						"upper_after_arobase"
+					],
+					[
+						"my_ha",
+						"my_hash_without_dollar"
+					],
+					[
+						"full",
+						"full_pyramid_reverse"
+					],
+					[
+						"ask",
+						"ask_stairs"
+					],
+					[
+						"space",
+						"space-between\talign-content"
+					],
+					[
+						"dou",
+						"doubled_fibs"
+					],
+					[
+						"points",
+						"points_de_vie"
+					],
+					[
+						"numbe",
+						"number2string"
+					],
+					[
+						"when",
+						"case-when"
+					],
+					[
+						"joue",
+						"joueur2"
+					],
+					[
+						"posi",
+						"positive_array"
+					],
+					[
+						"g",
+						"getElementsByTagName"
+					],
+					[
+						"user",
+						"user_number"
+					],
+					[
+						"ge",
+						"getElementById"
+					],
+					[
+						"bac",
+						"backgroundColor"
+					],
+					[
+						"mul",
+						"multiply"
+					],
+					[
+						"amout",
+						"amount_of_crackers"
+					],
+					[
+						"amount",
+						"amount_of_crackers"
+					],
+					[
+						"amou",
+						"amount_of_cheese"
+					],
+					[
+						"chess",
+						"cheese_and_crackers"
+					],
+					[
+						"cheese_",
+						"cheese_and_crackers"
+					],
+					[
+						"print_two",
+						"print_two_again"
+					],
+					[
+						"affiche",
+						"afficher_flottant"
+					],
+					[
+						"color",
+						"colorInput"
+					],
+					[
+						"heigh",
+						"height_inches"
+					],
+					[
+						"sm",
+						"x-small\tfont-size"
+					],
+					[
+						"backg",
+						"background\tproperty"
+					],
+					[
+						"ani",
+						"animals"
+					],
+					[
+						"shadow",
+						"box-shadow\tproperty"
+					],
+					[
+						"displa",
+						"display-3 \tBootstrap 4 Class"
+					],
+					[
+						"img",
+						"img-fluid \tBootstrap 4 Class"
+					],
+					[
+						"confid",
+						"confidentialite"
+					],
+					[
+						"d",
+						"d-flex \tBootstrap 4 Class"
+					],
+					[
+						"blo",
+						"blockquote-footer \tBootstrap 4 Class"
+					],
+					[
+						"mb-",
+						"mb-3 \tBootstrap 4 Class"
+					],
+					[
+						"flex",
+						"flex-start\talign-items"
+					],
+					[
+						"sp",
+						"space-between\tjustify-content"
+					],
+					[
+						"fl",
+						"flex-start\talign-items"
+					],
+					[
+						"backgrou",
+						"background-color\tproperty"
+					],
+					[
+						"root",
+						"rootStyles"
+					],
+					[
+						"flex-",
+						"flex-start\talign-self"
+					],
+					[
+						"mb",
+						"margin-bottom\tproperty"
+					],
+					[
+						"fle",
+						"flex-wrap\tproperty"
+					],
+					[
+						"border-r",
+						"border-radius\tproperty"
+					],
+					[
+						"font",
+						"font-family\tproperty"
+					],
+					[
+						"back",
+						"background-color\tproperty"
+					],
+					[
+						"padding",
+						"padding-bottom\tproperty"
+					],
+					[
+						"aler",
+						"alert-danger \tBootstrap 3 Class"
+					],
+					[
+						"res",
+						"img-responsive \tBootstrap 3 Class"
+					],
+					[
+						"cont",
+						"container-fluid \tBootstrap 3 Class"
+					],
+					[
+						"col-xs",
+						"col-xs-8 \tBootstrap 3 Class"
+					],
+					[
+						"img-",
+						"img-responsive \tBootstrap 3 Class"
+					],
+					[
+						"col-xs-",
+						"col-xs-4 \tBootstrap 3 Class"
+					],
+					[
+						"marg",
+						"margin\tproperty"
+					],
+					[
+						"rg",
+						"rgba()\tcolor"
+					],
+					[
+						"ta",
+						"ta-c\ttext-align: center;"
+					],
+					[
+						"lsty",
+						"list-style\tproperty"
+					],
+					[
+						"bc",
+						"background-color\tproperty"
+					],
+					[
+						"margin",
+						"margin-top\tproperty"
+					],
+					[
+						"max",
+						"max-width\tproperty"
+					],
+					[
+						"mar",
+						"margin\tproperty"
+					],
+					[
+						"mx",
+						"max-width\tproperty"
+					],
+					[
+						"a",
+						"aside\tTag"
+					],
+					[
+						"qu",
+						"querySelectorAll"
+					],
+					[
+						"trans",
+						"translateY()"
+					],
+					[
+						"alig",
+						"align-items"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"add",
+						"addEventListener"
+					],
+					[
+						"ne",
+						"newItemCounter"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"grid-co",
+						"grid-column"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"grid-col",
+						"grid-column-end"
+					],
+					[
+						"grid",
+						"grid-column"
+					],
+					[
+						"grid-temp",
+						"grid-template-columns"
+					],
+					[
+						"letter",
+						"letterlist"
+					],
+					[
+						"count",
+						"count_emails"
+					],
+					[
+						"list",
+						"list_numbers"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"font-st",
+						"font-style"
+					],
+					[
+						"greet",
+						"greet2"
+					],
+					[
+						"cou",
+						"couleur_no_choisi"
+					],
+					[
+						"numero",
+						"numero_choisi"
+					],
+					[
+						"nume",
+						"numero_choisi"
+					],
+					[
+						"coul",
+						"couleur_no_gagnant"
+					],
+					[
+						"verif_",
+						"verif_ouiounon"
+					],
+					[
+						"argent",
+						"argent_user"
+					],
+					[
+						"argen",
+						"argent_user"
+					],
+					[
+						"num",
+						"numero_gagnant"
+					],
+					[
+						"mise",
+						"mise_choisie"
+					],
+					[
+						"arg",
+						"argent_user"
+					],
+					[
+						"numero_",
+						"numero_user"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"skin",
+						"Preferences: Skins Settings"
+					],
+					[
+						"",
+						":w - Save"
+					],
+					[
+						"ski",
+						"UI: Save Skin"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"INST",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"termin",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"term",
+						"Preferences: Terminal View: Settings"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"col",
+						"Color Picker"
+					],
+					[
+						"git: s",
+						"git: status"
+					],
+					[
+						"git:commit",
+						"git: commit"
+					],
+					[
+						"git: status",
+						"git: status"
+					],
+					[
+						"sub",
+						"SublimeREPL: Python"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 657.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"GitGutter",
+					"git -a -m \"ajouté test\"",
+					"end",
+					"quit()",
+					"GitGutter",
+					"'GitSavvy: help'",
+					"GitSavvy: help",
+					"git status",
+					"print(\"hello\")",
+					"python3.6",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/events/show.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/admin/events_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/models/user.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/users_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/users/edit.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/users/show.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/admin/attendances_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/events/edit.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/events/new.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/models/event.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/events/show.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/events/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/events_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/layouts/application.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/db/seeds.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/layouts/_admin_header.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/attendances/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/events/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/admin/admin_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/admin/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/Gemfile",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/layouts/admin.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/users/show.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/events/edit.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/users/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/layouts/_header.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/layouts/_footer.html.erb",
+				"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project/app/views/gossips/show.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/devise/registrations/new.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/routes.rb",
+				"/home/clodiap/.config/terminator/config",
+				"/home/clodiap/.zshrc",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/models/event_spec.rb",
+				"/home/clodiap/Dev/THP/20-ven/airbnb-correction-master/app/models/reservation.rb",
+				"/home/clodiap/Dev/THP/20-ven/airbnb-correction-master/app/validators/reservation_validator.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/factories/attendances.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/models/attendance_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/attendances_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/validators/event_validator.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/controllers/events_controller_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/users/edit.html.erb",
+				"/home/clodiap/Dev/THP/20-ven/airbnb-correction-master/spec/models/reservation_spec.rb",
+				"/home/clodiap/Dev/THP/20-ven/airbnb-correction-master/spec/models/listing_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/factories/events.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/admin/users_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/models/attendance.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/user_mailer/welcome_email.text.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/lib/assets/css/agency.css",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin_mailer/newattendee_email.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/user_mailer/welcome_email.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin_mailer/newattendee_email.text.erb",
+				"/home/clodiap/Dev/THP/26-lun/startbootstrap-agency-gh-pages/index.html",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/admin_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admins/users.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/admin/admins_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/assets/javascripts/application.js",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/assets/stylesheets/application.css",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/attendances/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/event_pictures_controller.rb",
+				"/home/clodiap/.bash_profile",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/attendances/new.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/devise/sessions/new.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/devise/registrations/edit.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/storage.yml",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/config/routes.rb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/controllers/avatars_controller.rb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/views/users/show.html.erb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/views/layouts/application.html.erb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/assets/javascripts/application.js",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/assets/stylesheets/application.css",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/config/initializers/assets.rb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/controllers/users_controller.rb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/models/user.rb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/views/home/index.html.erb",
+				"/home/clodiap/Dev/THP/29-jeu/theme bootstrap/startbootstrap-new-age-gh-pages/index.html",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/initializers/assets.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/charges_controller.rb",
+				"/home/clodiap/Dev/THP/29-jeu/eventbrite_maud/app/views/devise/sessions/new.html.erb",
+				"/tmp/4138.credentials.yml",
+				"/home/clodiap/Dev/THP/26-lun/Eventbrite - viviane/app/views/events/show.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/events/show.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/Eventbrite - viviane/app/controllers/attendances_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/README.md",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/.env",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/environments/production.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/initializers/stripe.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/layouts/charges.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/charges/new.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/charges/create.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/users/show.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/controllers/users_controller_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/home/index.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/home/secret.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/events/destroy.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/events/create.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/events/edit.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/events/index.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/events/update.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/factories/users.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/helpers/attendances_helper_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/controllers/attendances_controller_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/attendances/update.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/attendances/show.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/attendances/index.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/attendances/edit.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/attendances/destroy.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/attendances/create.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/controllers/home_controller_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/helpers/home_helper_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/helpers/users_helper_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/helpers/events_helper_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/environment.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/db/schema.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/users/registrations/new.html.erb",
+				"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project/app/views/gossips/new.html.erb",
+				"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project/app/controllers/gossips_controller.rb",
+				"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project/app/views/layouts/application.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/initializers/devise.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/home/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/environments/development.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/db/migrate/20190211101857_create_users.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/db/migrate/20190212124605_remove_column_to_users.rb",
+				"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project/Gemfile",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/db/migrate/20190212125008_add_devise_to_users.rb",
+				"/home/clodiap/Dev/THP/27-mar/corrections/Eventbrite_Paris-nicolas/app/models/user.rb",
+				"/home/clodiap/Dev/THP/27-mar/corrections/eventbrite_mlav-maud/config/environments/development.rb",
+				"/home/clodiap/Dev/THP/27-mar/corrections/eventbrite_mlav-maud/.env",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/mailers/user_mailer_spec.rb"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 136.0,
+				"where_history":
+				[
+					"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"email",
+					"secondary",
+					"first_name",
+					"user",
+					"record",
+					"reservation",
+					"admin",
+					"users",
+					"user",
+					"users",
+					"User",
+					">\n",
+					"current_user",
+					"compte",
+					"head",
+					"main",
+					"  <script src=\"vendor/",
+					"masthead",
+					"#portfolio",
+					"user_path",
+					"user",
+					"user_path",
+					"user",
+					"User",
+					"user",
+					"primary",
+					"info",
+					"primary",
+					"info",
+					"header",
+					"jquery.",
+					".js\"></script>",
+					"<script src=\"js/",
+					"<script src=\"vendor/",
+					"mb",
+					"gossip",
+					"],\n",
+					"gossip",
+					"content",
+					"potin",
+					"gossip",
+					"gossips",
+					"Gossip",
+					"letter",
+					"have_many",
+					"user",
+					"dotenv",
+					"authen",
+					"zip_code",
+					"6",
+					"p",
+					"”",
+					"“",
+					"’",
+					"‘",
+					"”",
+					"messages",
+					"’",
+					"‘",
+					"”",
+					"message",
+					"messages",
+					"\"></",
+					"fas fa-comments",
+					"])",
+					"User.find(params[:id])",
+					"bcry",
+					"div",
+					" }",
+					"bundler",
+					"sql",
+					"comment",
+					"zelda",
+					"bad_user",
+					"backorder",
+					"info_livr",
+					"jours",
+					"true",
+					"string",
+					"AddIndexToDoctors",
+					"city",
+					"url",
+					"id"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"event",
+					"events"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"menu_visible": true,
+			"output.GitSavvy":
+			{
+				"height": 146.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 102.0
+			},
+			"output.Terminus":
+			{
+				"height": 238.0
+			},
+			"output.exec":
+			{
+				"height": 173.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.show_commit_info":
+			{
+				"height": 110.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 26.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"gem",
+						"THP_26_Event_Project/Gemfile"
+					],
+					[
+						"",
+						"THP_26_Event_Project/Gemfile"
+					],
+					[
+						"attendances_",
+						"THP_26_Event_Project/app/controllers/admin/attendances_controller.rb"
+					],
+					[
+						"admin",
+						"THP_26_Event_Project/app/views/layouts/admin.html.erb"
+					],
+					[
+						"route",
+						"THP_26_Event_Project/config/routes.rb"
+					],
+					[
+						"atten",
+						"THP_26_Event_Project/spec/factories/attendances.rb"
+					],
+					[
+						"attendec",
+						"THP_26_Event_Project/spec/models/attendance_spec.rb"
+					],
+					[
+						"rou",
+						"THP_26_Event_Project/config/routes.rb"
+					],
+					[
+						"routes",
+						"THP_26_Event_Project/config/routes.rb"
+					],
+					[
+						"rout",
+						"THP_26_Event_Project/config/routes.rb"
+					],
+					[
+						"layouts/app",
+						"THP_26_Event_Project/app/views/layouts/application.html.erb"
+					],
+					[
+						"stora",
+						"THP_26_Event_Project/config/storage.yml"
+					],
+					[
+						"ind",
+						"test_active_storage/app/views/home/index.html.erb"
+					],
+					[
+						"asset",
+						"test_active_storage/config/initializers/assets.rb"
+					],
+					[
+						"seed",
+						"THP_26_Event_Project/db/seeds.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Travaux Clo/python/P4E.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 278.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1366.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bottom",
+						"border-bottom\tproperty"
+					],
+					[
+						"backg",
+						"background-color\tproperty"
+					],
+					[
+						"backgr",
+						"background\tproperty"
+					],
+					[
+						"event",
+						"event_picture"
+					],
+					[
+						"even",
+						"event_picture"
+					],
+					[
+						"par",
+						"params"
+					],
+					[
+						"text",
+						"text-center \tBootstrap 4 Class"
+					],
+					[
+						"admin",
+						"administrator"
+					],
+					[
+						"stati",
+						"static_pages"
+					],
+					[
+						"has_",
+						"has_many"
+					],
+					[
+						"has",
+						"has_many"
+					],
+					[
+						"each",
+						"each_with_index"
+					],
+					[
+						"all",
+						"all_gossips"
+					],
+					[
+						"new",
+						"new_words"
+					],
+					[
+						"array",
+						"array_of_rows"
+					],
+					[
+						"go",
+						"gossip_provisoire"
+					],
+					[
+						"array_ur",
+						"array_urls_to_scrap"
+					],
+					[
+						"email",
+						"email_to_save"
+					],
+					[
+						"word",
+						"word_of_corpus"
+					],
+					[
+						"word_of",
+						"word_of_corpus"
+					],
+					[
+						"words",
+						"words_of_my_dict"
+					],
+					[
+						"first",
+						"first_name"
+					],
+					[
+						"get",
+						"get_townhall_urls"
+					],
+					[
+						"arr",
+						"array_of_hash"
+					],
+					[
+						"arra",
+						"array_currencies"
+					],
+					[
+						"bonjour",
+						"bonjour_monde"
+					],
+					[
+						"foll",
+						"follow_like_stream_hashtag"
+					],
+					[
+						"follow",
+						"follow_tweets_hashtag"
+					],
+					[
+						"gues",
+						"guess_this_number"
+					],
+					[
+						"sub",
+						"substraction"
+					],
+					[
+						"my",
+						"my_string"
+					],
+					[
+						"revers",
+						"reverse_upcase_noLTA"
+					],
+					[
+						"my_",
+						"my_new_string"
+					],
+					[
+						"pos",
+						"pos_number"
+					],
+					[
+						"question",
+						"questions_answers"
+					],
+					[
+						"arrays",
+						"array_of_keys"
+					],
+					[
+						"hash",
+						"hash_values_float"
+					],
+					[
+						"alpha",
+						"alphabétique"
+					],
+					[
+						"how",
+						"how_many_underscores"
+					],
+					[
+						"upper",
+						"upper_after_arobase"
+					],
+					[
+						"my_ha",
+						"my_hash_without_dollar"
+					],
+					[
+						"full",
+						"full_pyramid_reverse"
+					],
+					[
+						"ask",
+						"ask_stairs"
+					],
+					[
+						"space",
+						"space-between\talign-content"
+					],
+					[
+						"dou",
+						"doubled_fibs"
+					],
+					[
+						"points",
+						"points_de_vie"
+					],
+					[
+						"numbe",
+						"number2string"
+					],
+					[
+						"when",
+						"case-when"
+					],
+					[
+						"joue",
+						"joueur2"
+					],
+					[
+						"posi",
+						"positive_array"
+					],
+					[
+						"g",
+						"getElementsByTagName"
+					],
+					[
+						"user",
+						"user_number"
+					],
+					[
+						"ge",
+						"getElementById"
+					],
+					[
+						"bac",
+						"backgroundColor"
+					],
+					[
+						"mul",
+						"multiply"
+					],
+					[
+						"amout",
+						"amount_of_crackers"
+					],
+					[
+						"amount",
+						"amount_of_crackers"
+					],
+					[
+						"amou",
+						"amount_of_cheese"
+					],
+					[
+						"chess",
+						"cheese_and_crackers"
+					],
+					[
+						"cheese_",
+						"cheese_and_crackers"
+					],
+					[
+						"print_two",
+						"print_two_again"
+					],
+					[
+						"affiche",
+						"afficher_flottant"
+					],
+					[
+						"color",
+						"colorInput"
+					],
+					[
+						"heigh",
+						"height_inches"
+					],
+					[
+						"sm",
+						"x-small\tfont-size"
+					],
+					[
+						"ani",
+						"animals"
+					],
+					[
+						"shadow",
+						"box-shadow\tproperty"
+					],
+					[
+						"displa",
+						"display-3 \tBootstrap 4 Class"
+					],
+					[
+						"img",
+						"img-fluid \tBootstrap 4 Class"
+					],
+					[
+						"confid",
+						"confidentialite"
+					],
+					[
+						"d",
+						"d-flex \tBootstrap 4 Class"
+					],
+					[
+						"blo",
+						"blockquote-footer \tBootstrap 4 Class"
+					],
+					[
+						"mb-",
+						"mb-3 \tBootstrap 4 Class"
+					],
+					[
+						"flex",
+						"flex-start\talign-items"
+					],
+					[
+						"sp",
+						"space-between\tjustify-content"
+					],
+					[
+						"fl",
+						"flex-start\talign-items"
+					],
+					[
+						"backgrou",
+						"background-color\tproperty"
+					],
+					[
+						"root",
+						"rootStyles"
+					],
+					[
+						"flex-",
+						"flex-start\talign-self"
+					],
+					[
+						"mb",
+						"margin-bottom\tproperty"
+					],
+					[
+						"fle",
+						"flex-wrap\tproperty"
+					],
+					[
+						"border-r",
+						"border-radius\tproperty"
+					],
+					[
+						"font",
+						"font-family\tproperty"
+					],
+					[
+						"back",
+						"background-color\tproperty"
+					],
+					[
+						"padding",
+						"padding-bottom\tproperty"
+					],
+					[
+						"aler",
+						"alert-danger \tBootstrap 3 Class"
+					],
+					[
+						"res",
+						"img-responsive \tBootstrap 3 Class"
+					],
+					[
+						"cont",
+						"container-fluid \tBootstrap 3 Class"
+					],
+					[
+						"col-xs",
+						"col-xs-8 \tBootstrap 3 Class"
+					],
+					[
+						"img-",
+						"img-responsive \tBootstrap 3 Class"
+					],
+					[
+						"col-xs-",
+						"col-xs-4 \tBootstrap 3 Class"
+					],
+					[
+						"marg",
+						"margin\tproperty"
+					],
+					[
+						"rg",
+						"rgba()\tcolor"
+					],
+					[
+						"ta",
+						"ta-c\ttext-align: center;"
+					],
+					[
+						"lsty",
+						"list-style\tproperty"
+					],
+					[
+						"bc",
+						"background-color\tproperty"
+					],
+					[
+						"margin",
+						"margin-top\tproperty"
+					],
+					[
+						"max",
+						"max-width\tproperty"
+					],
+					[
+						"mar",
+						"margin\tproperty"
+					],
+					[
+						"mx",
+						"max-width\tproperty"
+					],
+					[
+						"a",
+						"aside\tTag"
+					],
+					[
+						"qu",
+						"querySelectorAll"
+					],
+					[
+						"trans",
+						"translateY()"
+					],
+					[
+						"alig",
+						"align-items"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"add",
+						"addEventListener"
+					],
+					[
+						"ne",
+						"newItemCounter"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"grid-co",
+						"grid-column"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"grid-col",
+						"grid-column-end"
+					],
+					[
+						"grid",
+						"grid-column"
+					],
+					[
+						"grid-temp",
+						"grid-template-columns"
+					],
+					[
+						"letter",
+						"letterlist"
+					],
+					[
+						"count",
+						"count_emails"
+					],
+					[
+						"list",
+						"list_numbers"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"font-st",
+						"font-style"
+					],
+					[
+						"greet",
+						"greet2"
+					],
+					[
+						"cou",
+						"couleur_no_choisi"
+					],
+					[
+						"numero",
+						"numero_choisi"
+					],
+					[
+						"nume",
+						"numero_choisi"
+					],
+					[
+						"coul",
+						"couleur_no_gagnant"
+					],
+					[
+						"verif_",
+						"verif_ouiounon"
+					],
+					[
+						"argent",
+						"argent_user"
+					],
+					[
+						"argen",
+						"argent_user"
+					],
+					[
+						"num",
+						"numero_gagnant"
+					],
+					[
+						"mise",
+						"mise_choisie"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/clodiap/Dev/THP/30-lun/THP_30_KitUi/index.html",
+					"settings":
+					{
+						"buffer_size": 12240,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/README.md",
+					"settings":
+					{
+						"buffer_size": 2166,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/clodiap/Dev/THP/30-lun/THP_30_KitUi/style.css",
+					"settings":
+					{
+						"buffer_size": 10999,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"skin",
+						"UI: Save Skin"
+					],
+					[
+						"",
+						":w - Save"
+					],
+					[
+						"ski",
+						"UI: Save Skin"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"INST",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"termin",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"term",
+						"Preferences: Terminal View: Settings"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"col",
+						"Color Picker"
+					],
+					[
+						"git: s",
+						"git: status"
+					],
+					[
+						"git:commit",
+						"git: commit"
+					],
+					[
+						"git: status",
+						"git: status"
+					],
+					[
+						"sub",
+						"SublimeREPL: Python"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 657.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"GitGutter",
+					"git -a -m \"ajouté test\"",
+					"end",
+					"quit()",
+					"GitGutter",
+					"'GitSavvy: help'",
+					"GitSavvy: help",
+					"git status",
+					"print(\"hello\")",
+					"python3.6",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/clodiap/Dev/THP/30-lun/THP_30_KitUi"
+			],
+			"file_history":
+			[
+				"/home/clodiap/Dev/THP/30-lun/THP_30_KitUi/README.md",
+				"/home/clodiap/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+				"/home/clodiap/Téléchargements/climbing-2609319_1920.jpg",
+				"/home/clodiap/Dev/THP/30-lun/THP_30_KitUi/index.html",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/assets/stylesheets/styles.scss",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/lib/assets/css/agency.css",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/admin/users_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/users_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/users/show.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/users/edit.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/events/edit.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/events_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/events/edit.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/admin/events_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/events/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/events/show.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/models/user.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/users/edit.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/users/show.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/admin/attendances_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/events/new.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/models/event.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/events/show.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/events/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/layouts/application.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/db/seeds.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/layouts/_admin_header.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/attendances/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/admin/admin_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/admin/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/Gemfile",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/layouts/admin.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin/users/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/layouts/_header.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/layouts/_footer.html.erb",
+				"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project/app/views/gossips/show.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/devise/registrations/new.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/routes.rb",
+				"/home/clodiap/.config/terminator/config",
+				"/home/clodiap/.zshrc",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/models/event_spec.rb",
+				"/home/clodiap/Dev/THP/20-ven/airbnb-correction-master/app/models/reservation.rb",
+				"/home/clodiap/Dev/THP/20-ven/airbnb-correction-master/app/validators/reservation_validator.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/factories/attendances.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/models/attendance_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/attendances_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/validators/event_validator.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/controllers/events_controller_spec.rb",
+				"/home/clodiap/Dev/THP/20-ven/airbnb-correction-master/spec/models/reservation_spec.rb",
+				"/home/clodiap/Dev/THP/20-ven/airbnb-correction-master/spec/models/listing_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/factories/events.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/models/attendance.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/user_mailer/welcome_email.text.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin_mailer/newattendee_email.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/user_mailer/welcome_email.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admin_mailer/newattendee_email.text.erb",
+				"/home/clodiap/Dev/THP/26-lun/startbootstrap-agency-gh-pages/index.html",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/admin_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/admins/users.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/admin/admins_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/assets/javascripts/application.js",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/assets/stylesheets/application.css",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/attendances/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/event_pictures_controller.rb",
+				"/home/clodiap/.bash_profile",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/attendances/new.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/devise/sessions/new.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/devise/registrations/edit.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/storage.yml",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/config/routes.rb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/controllers/avatars_controller.rb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/views/users/show.html.erb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/views/layouts/application.html.erb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/assets/javascripts/application.js",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/assets/stylesheets/application.css",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/config/initializers/assets.rb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/controllers/users_controller.rb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/models/user.rb",
+				"/home/clodiap/Dev/THP/29-jeu/test_active_storage/app/views/home/index.html.erb",
+				"/home/clodiap/Dev/THP/29-jeu/theme bootstrap/startbootstrap-new-age-gh-pages/index.html",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/initializers/assets.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/controllers/charges_controller.rb",
+				"/home/clodiap/Dev/THP/29-jeu/eventbrite_maud/app/views/devise/sessions/new.html.erb",
+				"/tmp/4138.credentials.yml",
+				"/home/clodiap/Dev/THP/26-lun/Eventbrite - viviane/app/views/events/show.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/events/show.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/Eventbrite - viviane/app/controllers/attendances_controller.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/README.md",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/.env",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/environments/production.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/initializers/stripe.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/layouts/charges.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/charges/new.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/charges/create.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/users/show.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/controllers/users_controller_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/home/index.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/home/secret.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/events/destroy.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/events/create.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/events/edit.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/events/index.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/events/update.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/factories/users.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/helpers/attendances_helper_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/controllers/attendances_controller_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/attendances/update.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/attendances/show.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/attendances/index.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/attendances/edit.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/attendances/destroy.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/views/attendances/create.html.erb_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/controllers/home_controller_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/helpers/home_helper_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/helpers/users_helper_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/spec/helpers/events_helper_spec.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/environment.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/db/schema.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/users/registrations/new.html.erb",
+				"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project/app/views/gossips/new.html.erb",
+				"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project/app/controllers/gossips_controller.rb",
+				"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project/app/views/layouts/application.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/initializers/devise.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/app/views/home/index.html.erb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/config/environments/development.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/db/migrate/20190211101857_create_users.rb",
+				"/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/db/migrate/20190212124605_remove_column_to_users.rb",
+				"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project/Gemfile"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 136.0,
+				"where_history":
+				[
+					"/home/clodiap/Dev/THP/22-mar/22_The_Gossip_Project",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"élément de liste ordonnée",
+					"élément de liste",
+					"liens",
+					">\n",
+					"lead",
+					"container",
+					">\n",
+					".form-style-5",
+					"212529",
+					"secondary",
+					">\n",
+					"email",
+					"secondary",
+					"first_name",
+					"user",
+					"record",
+					"reservation",
+					"admin",
+					"users",
+					"user",
+					"users",
+					"User",
+					">\n",
+					"current_user",
+					"compte",
+					"head",
+					"main",
+					"  <script src=\"vendor/",
+					"masthead",
+					"#portfolio",
+					"user_path",
+					"user",
+					"user_path",
+					"user",
+					"User",
+					"user",
+					"primary",
+					"info",
+					"primary",
+					"info",
+					"header",
+					"jquery.",
+					".js\"></script>",
+					"<script src=\"js/",
+					"<script src=\"vendor/",
+					"mb",
+					"gossip",
+					"],\n",
+					"gossip",
+					"content",
+					"potin",
+					"gossip",
+					"gossips",
+					"Gossip",
+					"letter",
+					"have_many",
+					"user",
+					"dotenv",
+					"authen",
+					"zip_code",
+					"6",
+					"p",
+					"”",
+					"“",
+					"’",
+					"‘",
+					"”",
+					"messages",
+					"’",
+					"‘",
+					"”",
+					"message",
+					"messages",
+					"\"></",
+					"fas fa-comments",
+					"])",
+					"User.find(params[:id])",
+					"bcry",
+					"div",
+					" }",
+					"bundler",
+					"sql",
+					"comment",
+					"zelda",
+					"bad_user",
+					"backorder",
+					"info_livr",
+					"jours",
+					"true",
+					"string",
+					"AddIndexToDoctors",
+					"city",
+					"url",
+					"id"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"event",
+					"events"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/clodiap/Dev/THP/30-lun/THP_30_KitUi"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/clodiap/Dev/THP/30-lun/THP_30_KitUi/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12240,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11845,
+										11845
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 7612.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/clodiap/Dev/THP/26-lun/THP_26_Event_Project/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2166,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/home/clodiap/Dev/THP/30-lun/THP_30_KitUi/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10999,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3392,
+										3392
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												107,
+												108
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												85,
+												86
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												3391,
+												3392
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												3311,
+												3312
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"git_gutter_is_enabled": true,
+									"open_with_edit": true,
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 10935.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 48.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.411570247934,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.GitSavvy":
+			{
+				"height": 146.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 102.0
+			},
+			"output.Terminus":
+			{
+				"height": 238.0
+			},
+			"output.exec":
+			{
+				"height": 173.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.show_commit_info":
+			{
+				"height": 110.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 26.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,24,1366,736,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 92.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"gem",
+						"THP_26_Event_Project/Gemfile"
+					],
+					[
+						"",
+						"THP_26_Event_Project/Gemfile"
+					],
+					[
+						"attendances_",
+						"THP_26_Event_Project/app/controllers/admin/attendances_controller.rb"
+					],
+					[
+						"admin",
+						"THP_26_Event_Project/app/views/layouts/admin.html.erb"
+					],
+					[
+						"route",
+						"THP_26_Event_Project/config/routes.rb"
+					],
+					[
+						"atten",
+						"THP_26_Event_Project/spec/factories/attendances.rb"
+					],
+					[
+						"attendec",
+						"THP_26_Event_Project/spec/models/attendance_spec.rb"
+					],
+					[
+						"rou",
+						"THP_26_Event_Project/config/routes.rb"
+					],
+					[
+						"routes",
+						"THP_26_Event_Project/config/routes.rb"
+					],
+					[
+						"rout",
+						"THP_26_Event_Project/config/routes.rb"
+					],
+					[
+						"layouts/app",
+						"THP_26_Event_Project/app/views/layouts/application.html.erb"
+					],
+					[
+						"stora",
+						"THP_26_Event_Project/config/storage.yml"
+					],
+					[
+						"ind",
+						"test_active_storage/app/views/home/index.html.erb"
+					],
+					[
+						"asset",
+						"test_active_storage/config/initializers/assets.rb"
+					],
+					[
+						"seed",
+						"THP_26_Event_Project/db/seeds.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Travaux Clo/python/P4E.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 156.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 78,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/clodiap/Dev/THP/26-lun/Event.sublime-workspace",
+			"/home/clodiap/Dev/THP/Gossip.sublime-workspace",
+			"/home/clodiap/Travaux Clo/python/P4E.sublime-workspace",
+			"/home/clodiap/Dev/django-freecodecamp/src/tutorial_doc_django.sublime-workspace",
+			"/home/clodiap/Travaux Clo/python/openclassrooms/django-freecodecamp.sublime-workspace",
+			"/home/clodiap/Dev/trydjango/trydjango.sublime-workspace",
+			"/home/clodiap/Dev/djangoforwpdevelopers/src/djangoforwpdevelopers.sublime-workspace",
+			"/home/clodiap/Travaux Clo/python/learn python.sublime-workspace",
+			"/home/clodiap/Dev/djangosimplewebsite/src/djangosimplewebsite.sublime-workspace",
+			"/home/sebetclo/Travaux Clo/python/learn python.sublime-workspace"
+		]
+	}
+}

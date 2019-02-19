@@ -1,0 +1,27 @@
+{
+    "search_colors_in": {
+        "all_content": {
+            "enabled": true,
+            "color_highlighters": {
+                "color_scheme": {
+                    "enabled": true,
+                    "highlight_style": "filled"
+                },
+                "gutter_icons": {
+                    "enabled": true,
+                    "icon_style": "circle"
+                },
+                "phantoms": {
+                    "enabled": false,
+                    "style": "right",
+                    "length": 2
+                }
+            }
+        },
+    },
+    "file_extensions": [".css", ".less", ".scss", ".sass", ".styl", ".html"],
+    "hover": {
+            "enabled": false,
+    },
+
+}

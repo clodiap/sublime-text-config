@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Agila Theme",
+		"ApplySyntax",
+		"Bootstrap 4 Autocomplete",
+		"BracketHighlighter",
+		"Cobalt2 Flat Theme",
+		"Color Highlighter",
+		"Dracula Color Scheme",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"Highlighter",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
+		"MarkdownPreview",
+		"Material Monokai",
+		"Material Theme",
+		"Monokai - Spacegray",
+		"Monokai Extended",
+		"Package Control",
+		"Rails Completions",
+		"Sass",
+		"SideBarEnhancements",
+		"Skins",
+		"Terminal",
+		"Theme - Cobalt2",
+		"Theme - Darkmatter",
+		"Theme - Monokai+",
+		"Theme - Soda",
+		"Theme - Spaceblack",
+		"Theme - Spacegray",
+		"Wild Cherry",
+		"Wombat Color Scheme",
+		"Wombat Theme"
+	]
+}

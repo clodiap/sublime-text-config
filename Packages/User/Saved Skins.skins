@@ -1,0 +1,32 @@
+{
+	"Darkmatter":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/Theme - Darkmatter/Darkmatter.tmTheme",
+			"font_face": "Fira Code Medium",
+			"font_size": 9,
+			"theme": "Darkmatter.sublime-theme"
+		}
+	},
+	"Dracula_small":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/Agila Theme/Agila Dracula.tmTheme",
+			"font_face": "Fira Code Medium",
+			"font_size": 9,
+			"theme": "Agila.sublime-theme"
+		}
+	},
+	"material_dracula":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/User/Color Highlighter/themes/Agila Dracula.tmTheme",
+			"font_face": "Fira Code Medium",
+			"font_size": 9,
+			"theme": "Material-Theme-Palenight.sublime-theme"
+		}
+	}
+}
